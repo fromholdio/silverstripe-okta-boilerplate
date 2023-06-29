@@ -28,8 +28,7 @@
         "silverstripe/framework": "^5.0",
         "phptek/jsontext": "^2",
         "symbiote/silverstripe-queuedjobs": "^5.0.1",
-        "cache/void-adapter": "^1.2.0",
-        "guzzlehttp/psr7": "^1.9.1"
+        "cache/void-adapter": "^1.2.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.5",
